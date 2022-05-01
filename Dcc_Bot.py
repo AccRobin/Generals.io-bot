@@ -6,7 +6,7 @@ import random
 
 ###########
 
-user_id = 'H12mz_sr5'
+user_id = ''
 user_name = '[bot]Dcc_Robin'
 custom_game_id = 'test_room1'
 

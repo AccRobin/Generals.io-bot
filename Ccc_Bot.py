@@ -10,7 +10,7 @@ map1 = []
 
 ###########
 
-user_id = 'Hkz5fPjBq'
+user_id = ''
 user_name = '[bot]Ccc_Robin'
 custom_game_id = 'test_room1';
 
